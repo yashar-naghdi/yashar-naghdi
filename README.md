@@ -1,8 +1,7 @@
 - Website: YasharNaghdi.com
 - Data Science, Product Design and Consultancy
 - This account serves as my new technical portfolio
-- For reaching out, please find my on my LinkedIn: https://www.linkedin.com/in/yashar-naghdi/
- 
+- Currently focused on the application of generative AI for a more personalized education experience.
 
 <!---
 yashar-naghdi/yashar-naghdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
