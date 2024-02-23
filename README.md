@@ -1,4 +1,4 @@
-- @yashar-naghdi
+- Website: YasharNaghdi.com
 - Data Science, Product Design and Consultancy
 - This account serves as my new technical portfolio
 - For reaching out, please find my on my LinkedIn: https://www.linkedin.com/in/yashar-naghdi/
