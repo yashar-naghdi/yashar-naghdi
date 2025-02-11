@@ -1,5 +1,5 @@
 - Website: YasharNaghdi.com
-- Data Science, Product Design and Consultancy
+- Data Science and Consultancy
 - This account serves as my new technical portfolio
 - Currently focused on the application of generative AI for developing personalized solutions.
 
