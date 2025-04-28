@@ -1,5 +1,5 @@
 #
-- AI and decision science
+- Decision science
 - This account serves as a junior portfolio, end of 2024.
 - In development for a senior.
 <!---
